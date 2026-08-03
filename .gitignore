@@ -70,3 +70,8 @@ config.json
 
 *.txt
 testing
+*.lua
+*.js
+*.sh
+*.fish
+*.zsh
