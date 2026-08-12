@@ -16,3 +16,4 @@ Luminousity is a lightweight, modal terminal text editor built for Arch Linux / 
    ```bash
    git clone [https://github.com/ShadowBytess/luminousity.git](https://github.com/ShadowBytess/luminousity.git)
    cd luminousity
+   sudo cp luminousity /usr/local/bin
